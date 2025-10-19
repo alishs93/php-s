@@ -1,1 +1,1 @@
-# this is a test
+# this is php server for "s" repository
